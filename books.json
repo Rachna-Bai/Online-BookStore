@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1,
+        "image": "images/b1.jpg",
+        "name": "The Past Is Rising",
+        "author": "Kathryan Bywaters",
+        "price": "$20.00",
+        "category": "new",
+        "bestseller": false,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 2,
+        "image": "images/b2.jpg",
+        "name": "The Battle",
+        "author": "Trif Premade",
+        "price": "$24.00",
+        "category": "new",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 3,
+        "image": "images/b3.jpg",
+        "name": "The Hills Of Mist",
+        "author": "Jamie Chnadlier",
+        "price": "$19.00",
+        "category": "new",
+        "bestseller": false,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 4,
+        "image": "images/b4.jpg",
+        "name": "The Tomb Of The Celts",
+        "author": "Kathleen Wienert",
+        "price": "$20.00",
+        "category": "new",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 5,
+        "image": "images/b5.jpg",
+        "name": "I Know What You Did",
+        "author": "Cyche Osborne",
+        "price": "$20.00",
+        "category": "new",
+        "bestseller": false,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 6,
+        "image": "images/b6.jpg",
+        "name": "Say The Word",
+        "author": "Julie Jonson",
+        "price": "$20.00",
+        "category": "new",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 7,
+        "image": "images/b7.jpg",
+        "name": "Letting It All Go",
+        "author": "Sweva Stengel",
+        "price": "$20.00",
+        "category": "new",
+        "bestseller": false,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 8,
+        "image": "images/b8.jpg",
+        "name": "Intutions",
+        "author": "Amisha Ghadiali",
+        "price": "$20.00",
+        "category": "new",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 9,
+        "image": "images/b9.jpg",
+        "name": "Autumn Warm",
+        "author": "Unknown",
+        "price": "$18.00",
+        "category": "novel",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 10,
+        "image": "images/b10.jpg",
+        "name": "Spring Book",
+        "author": "Unknown",
+        "price": "$20.00",
+        "category": "novel",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 11,
+        "image": "images/b11.jpg",
+        "name": "Still Single",
+        "author": "Toja Tori",
+        "price": "$22.00",
+        "category": "Fiction",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 12,
+        "image": "images/b12.jpg",
+        "name": "The Good Sister",
+        "author": "Alexa Blye",
+        "price": "$23.00",
+        "category": "novel",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 13,
+        "image": "images/b13.jpg",
+        "name": "The BradBury",
+        "author": "Unknown",
+        "price": "$20.00",
+        "category": "Story",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 14,
+        "image": "images/b14.jpg",
+        "name": "Can We be StrangersAgain",
+        "author": "Shrijeet Shandilya",
+        "price": "$24.00",
+        "category": "novel",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    },
+    {
+        "id": 15,
+        "image": "images/b15.jpg",
+        "name": "The Strangers",
+        "author": "Unknown",
+        "price": "$20.00",
+        "category": "Mystery",
+        "bestseller": true
+    },
+    {
+        "id": 16,
+        "image": "images/b16.jpg",
+        "name": "A Love Story",
+        "author": "Jane H. Doe",
+        "price": "$20.00",
+        "category": "new",
+        "bestseller": true,
+        "Description": "The Past Is Rising is a gripping story about how buried memories and forgotten truths refuse to stay silent. As the past begins to resurface, the characters are forced to confront choices they thought were long behind them. Blending emotion, mystery, and self-discovery, the book explores how unresolved history can shape the present—and how facing it can change the future."
+    }
+]
