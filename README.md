@@ -1,5 +1,31 @@
-Front-End Web Development Project
+# Online Bookstore Website
 
-Developed a fully responsive e-commerce website for books featuring a modern UI and interactive user experience. The project includes multiple pages such as Home, Shop, Product Details, Cart, About, and Contact. Implemented dynamic sections like featured books (new arrivals and bestsellers), category-based browsing, promotional deals with countdown timers, rating stars, and add-to-cart functionality using JavaScript. Focused on clean design, smooth navigation, and usability across different screen sizes.
+## Project Overview
+This is a responsive Online Bookstore web application where users can browse books, view details, add items to cart, and proceed to checkout. The project is designed to simulate a basic e-commerce experience for books.
 
-Technologies Used: HTML5, CSS3, JavaScript
+## Features
+- Home page with featured books and categories  
+- Book catalog with search and filters (genre, author, price)  
+- Detailed book pages with description, price, and ratings  
+- Add to cart and wishlist functionality  
+- Cart page with update/remove options  
+- Simple checkout flow  
+- User login and signup system  
+- About and contact page  
+
+## Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+
+## Purpose
+This project was built to practice front-end development skills and understand basic e-commerce website structure and user flow.
+
+## Future Improvements
+- Payment gateway integration  
+- Backend with database support  
+- User order history and dashboard  
+- Better UI/UX improvements  
+
+## Author
+Developed by Neel
