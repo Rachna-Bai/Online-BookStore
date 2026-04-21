@@ -8,9 +8,7 @@ This is a responsive Online Bookstore web application where users can browse boo
 - Book catalog with search and filters (genre, author, price)  
 - Detailed book pages with description, price, and ratings  
 - Add to cart and wishlist functionality  
-- Cart page with update/remove options  
-- Simple checkout flow  
-- User login and signup system  
+- Cart page with update/remove options   
 - About and contact page  
 
 ## Technologies Used
@@ -28,4 +26,4 @@ This project was built to practice front-end development skills and understand b
 - Better UI/UX improvements  
 
 ## Author
-Developed by Neel
+Developed by Rachna
